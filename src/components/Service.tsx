@@ -1,5 +1,3 @@
-import React from "react";
-
 export default function Services() {
   return (
     <div className="flex justify-center px-4 py-20 bg-gradient-to-b from-[#fef6f6] via-[#f8f9fb] to-[#edf2f7]">
